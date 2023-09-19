@@ -1,3 +1,11 @@
 # Add patterns of files dvc should ignore, which could improve
 # the performance. Learn more at
 # https://dvc.org/doc/user-guide/dvcignore
+modulo-2/dataset/Adelante
+"modulo-2/dataset/Adelante Izquierda
+"modulo-2/dataset/Adelante Derecha"
+modulo-2/dataset/Atras
+"modulo-2/dataset/Atras Izquierda"
+"modulo-2/dataset/Atras Derecha"
+modulo-2/dataset/Estatico
+
